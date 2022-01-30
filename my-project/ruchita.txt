@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Vishvas patel
 ruchita vishvas patel
 Third commit.
+=======
+Vishvas patel
+>>>>>>> parent of e2dde61 (Second commit.)
