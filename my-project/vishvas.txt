@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-=======
->>>>>>> parent of 29e1274 (Added second line.)
-=======
->>>>>>> parent of 29e1274 (Added second line.)
-First line
+first line
 second line
+third line
+forth line
